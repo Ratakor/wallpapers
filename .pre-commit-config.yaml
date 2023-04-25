@@ -1,0 +1,7 @@
+repos:
+  - repo: local
+    hooks:
+      - id: detox
+        name: detox
+        entry: detox
+        language: system
