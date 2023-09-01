@@ -12,9 +12,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## jjba
 
-<a href="../jjba/jojo5.png"><img alt="jojo5" src="../jjba/jojo5.png"></a><br/><br/>
+<a href="../jjba/josuke.jpg"><img alt="josuke" src="../jjba/josuke.jpg"></a><br/><br/>
 
-<a href="../jjba/jojo.jpg"><img alt="jojo" src="../jjba/jojo.jpg"></a><br/><br/>
+<a href="../jjba/jotaro2.jpg"><img alt="jotaro2" src="../jjba/jotaro2.jpg"></a><br/><br/>
 
 [Browse](../jjba/README.md)
 
@@ -28,124 +28,116 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## misc
 
-<a href="../misc/b-674.jpg"><img alt="b-674" src="../misc/b-674.jpg"></a><br/><br/>
+<a href="../misc/landscape.jpg"><img alt="landscape" src="../misc/landscape.jpg"></a><br/><br/>
 
-<a href="../misc/b-333.jpg"><img alt="b-333" src="../misc/b-333.jpg"></a><br/><br/>
+<a href="../misc/b-330.jpg"><img alt="b-330" src="../misc/b-330.jpg"></a><br/><br/>
 
 [Browse](../misc/README.md)
 
 ## nier
 
-<a href="../nier/932574.jpg"><img alt="932574" src="../nier/932574.jpg"></a><br/><br/>
+<a href="../nier/922055.jpg"><img alt="922055" src="../nier/922055.jpg"></a><br/><br/>
 
-<a href="../nier/922053.jpg"><img alt="922053" src="../nier/922053.jpg"></a><br/><br/>
+<a href="../nier/b-187.jpg"><img alt="b-187" src="../nier/b-187.jpg"></a><br/><br/>
 
 [Browse](../nier/README.md)
 
 ## brockhofer
 
-<a href="../brockhofer/HyperBeast3.jpg"><img alt="HyperBeast3" src="../brockhofer/HyperBeast3.jpg"></a><br/><br/>
+<a href="../brockhofer/CalamityBeast.jpg"><img alt="CalamityBeast" src="../brockhofer/CalamityBeast.jpg"></a><br/><br/>
 
-<a href="../brockhofer/TheBlueMist.jpg"><img alt="TheBlueMist" src="../brockhofer/TheBlueMist.jpg"></a><br/><br/>
+<a href="../brockhofer/OrganOpera.jpg"><img alt="OrganOpera" src="../brockhofer/OrganOpera.jpg"></a><br/><br/>
 
 [Browse](../brockhofer/README.md)
 
 ## berserk
 
-<a href="../berserk/wallhaven-x8z81d.png"><img alt="wallhaven-x8z81d" src="../berserk/wallhaven-x8z81d.png"></a><br/><br/>
+<a href="../berserk/spirit.jpg"><img alt="spirit" src="../berserk/spirit.jpg"></a><br/><br/>
 
-<a href="../berserk/wallhaven-e77j1o.jpg"><img alt="wallhaven-e77j1o" src="../berserk/wallhaven-e77j1o.jpg"></a><br/><br/>
+<a href="../berserk/cyberpunk.jpg"><img alt="cyberpunk" src="../berserk/cyberpunk.jpg"></a><br/><br/>
 
 [Browse](../berserk/README.md)
 
+## fog
+
+<a href="../fog/alex-bierwagen-Uuz7yti7SQA-unsplash.jpg"><img alt="alex-bierwagen-Uuz7yti7SQA-unsplash" src="../fog/alex-bierwagen-Uuz7yti7SQA-unsplash.jpg"></a><br/><br/>
+
+<a href="../fog/caseen-kyle-registos-JOTO7YjLiO0-unsplash.jpg"><img alt="caseen-kyle-registos-JOTO7YjLiO0-unsplash" src="../fog/caseen-kyle-registos-JOTO7YjLiO0-unsplash.jpg"></a><br/><br/>
+
+[Browse](../fog/README.md)
+
 ## omori
 
-<a href="../omori/July.png"><img alt="July" src="../omori/July.png"></a><br/><br/>
+<a href="../omori/August.png"><img alt="August" src="../omori/August.png"></a><br/><br/>
 
-<a href="../omori/December.png"><img alt="December" src="../omori/December.png"></a><br/><br/>
+<a href="../omori/omori.jpg"><img alt="omori" src="../omori/omori.jpg"></a><br/><br/>
 
 [Browse](../omori/README.md)
 
 ## girls
 
-<a href="../girls/b-629.jpg"><img alt="b-629" src="../girls/b-629.jpg"></a><br/><br/>
+<a href="../girls/b-190.jpg"><img alt="b-190" src="../girls/b-190.jpg"></a><br/><br/>
 
-<a href="../girls/b-551.jpg"><img alt="b-551" src="../girls/b-551.jpg"></a><br/><br/>
+<a href="../girls/b-205.jpg"><img alt="b-205" src="../girls/b-205.jpg"></a><br/><br/>
 
 [Browse](../girls/README.md)
 
-## nsfw
-
-<a href="../nsfw/parabola.png"><img alt="parabola" src="../nsfw/parabola.png"></a><br/><br/>
-
-<a href="../nsfw/takato_yamamoto.jpg"><img alt="takato_yamamoto" src="../nsfw/takato_yamamoto.jpg"></a><br/><br/>
-
-[Browse](../nsfw/README.md)
-
 ## evangelion
 
-<a href="../evangelion/b-134.jpg"><img alt="b-134" src="../evangelion/b-134.jpg"></a><br/><br/>
+<a href="../evangelion/308308f399508c7dc8137e1e4fdf8599.jpg"><img alt="308308f399508c7dc8137e1e4fdf8599" src="../evangelion/308308f399508c7dc8137e1e4fdf8599.jpg"></a><br/><br/>
 
-<a href="../evangelion/b-129.jpg"><img alt="b-129" src="../evangelion/b-129.jpg"></a><br/><br/>
+<a href="../evangelion/evangelion-sachael-rei.png"><img alt="evangelion-sachael-rei" src="../evangelion/evangelion-sachael-rei.png"></a><br/><br/>
 
 [Browse](../evangelion/README.md)
 
+## solarized
+
+<a href="../solarized/solarized-planet.jpg"><img alt="solarized-planet" src="../solarized/solarized-planet.jpg"></a><br/><br/>
+
+<a href="../solarized/lli0c12vlvd91.png"><img alt="lli0c12vlvd91" src="../solarized/lli0c12vlvd91.png"></a><br/><br/>
+
+[Browse](../solarized/README.md)
+
 ## darksouls
 
-<a href="../darksouls/b-155.jpg"><img alt="b-155" src="../darksouls/b-155.jpg"></a><br/><br/>
+<a href="../darksouls/wallhaven-x19qdz.png"><img alt="wallhaven-x19qdz" src="../darksouls/wallhaven-x19qdz.png"></a><br/><br/>
 
-<a href="../darksouls/soulofcinder.jpg"><img alt="soulofcinder" src="../darksouls/soulofcinder.jpg"></a><br/><br/>
+<a href="../darksouls/wolf-gruvbox.png"><img alt="wolf-gruvbox" src="../darksouls/wolf-gruvbox.png"></a><br/><br/>
 
 [Browse](../darksouls/README.md)
 
+## unsorted
+
+<a href="../unsorted/minimal-flower.png"><img alt="minimal-flower" src="../unsorted/minimal-flower.png"></a><br/><br/>
+
+<a href="../unsorted/wallhaven-g8x697.jpg"><img alt="wallhaven-g8x697" src="../unsorted/wallhaven-g8x697.jpg"></a><br/><br/>
+
+[Browse](../unsorted/README.md)
+
 ## lain
 
-<a href="../lain/Greif.jpg"><img alt="Greif" src="../lain/Greif.jpg"></a><br/><br/>
+<a href="../lain/wallhaven-4v9x35.png"><img alt="wallhaven-4v9x35" src="../lain/wallhaven-4v9x35.png"></a><br/><br/>
 
-<a href="../lain/FtHMgDQagAI5izO.png"><img alt="FtHMgDQagAI5izO" src="../lain/FtHMgDQagAI5izO.png"></a><br/><br/>
+<a href="../lain/wallhaven-49we3w.png"><img alt="wallhaven-49we3w" src="../lain/wallhaven-49we3w.png"></a><br/><br/>
 
 [Browse](../lain/README.md)
 
 ## doom
 
-<a href="../doom/The_DOOM_Slayer_Wallpaper_1920x1080.jpg"><img alt="The_DOOM_Slayer_Wallpaper_1920x1080" src="../doom/The_DOOM_Slayer_Wallpaper_1920x1080.jpg"></a><br/><br/>
+<a href="../doom/DOOM_VALENTINE_WALLPAPER_1920x1080.jpg"><img alt="DOOM_VALENTINE_WALLPAPER_1920x1080" src="../doom/DOOM_VALENTINE_WALLPAPER_1920x1080.jpg"></a><br/><br/>
 
-<a href="../doom/waw.jpg"><img alt="waw" src="../doom/waw.jpg"></a><br/><br/>
+<a href="../doom/DOOM-25thAnniversary_wallpaper_1920x1080-01.jpg"><img alt="DOOM-25thAnniversary_wallpaper_1920x1080-01" src="../doom/DOOM-25thAnniversary_wallpaper_1920x1080-01.jpg"></a><br/><br/>
 
 [Browse](../doom/README.md)
 
 ## Sources
 
-Following are roughly the sources from where I scraped these images from.
-
-- <https://www.pixiv.net/en/>
-- <https://wallpapercave.com/>
-- <https://www.freepik.com/>
-- <https://in.pinterest.com/>
-- <https://pixabay.com/>
-- <https://unsplash.com/>
-- <https://wallhaven.cc/>
-- <https://wallhere.com/>
-- <https://deviantart.com/>
-- <https://artstation.com/>
-- <https://reddit.com/r/kustom/>
-- <https://www.reddit.com/r/WallpaperRequests/>
-- <https://www.reddit.com/r/wallpaperdump/>
-- <https://www.reddit.com/r/wallpaper/>
-- <https://www.reddit.com/r/Verticalwallpapers/>
-- <https://www.reddit.com/r/unixporn/>
-- <https://www.reddit.com/r/Rainmeter/>
-- <https://www.reddit.com/r/nordtheme/>
-- <https://www.reddit.com/r/manga/>
-- <https://www.reddit.com/r/chillhop/>
-- <https://www.reddit.com/r/awesomewm/>
-- <https://www.reddit.com/r/AnimeWallpaperGif/>
-- <https://www.reddit.com/r/Animewallpaper/>
-- <https://www.reddit.com/r/animegifs/>
-- <https://github.com/wallace-aph/tiles-and-such/>
 - <https://omori.fandom.com/wiki/MARI#CALENDAR/>
 - <https://wallpaper.castorisdead.xyz/>
 - <https://brockhoferart.com/>
+- <https://wallhaven.cc/>
+- <https://github.com/dharmx/walls/>
+- I don't recall other
 
 ## Ownership
 

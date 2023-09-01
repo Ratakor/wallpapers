@@ -98,7 +98,7 @@
 
 <a href="b-409.jpg"><img alt="b-409" src="b-409.jpg"></a>
 
-<a href="matesuli#1783.png"><img alt="matesuli#1783" src="matesuli#1783.png"></a>
+<a href="matesuli.png"><img alt="matesuli" src="matesuli.png"></a>
 
 <a href="b-174.jpg"><img alt="b-174" src="b-174.jpg"></a>
 
