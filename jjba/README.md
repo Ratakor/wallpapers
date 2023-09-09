@@ -8,6 +8,8 @@
 
 <a href="jotaro.jpg"><img alt="jotaro" src="jotaro.jpg"></a>
 
+<a href="windows.jpg"><img alt="windows" src="windows.jpg"></a>
+
 <a href="jojolion.jpg"><img alt="jojolion" src="jojolion.jpg"></a>
 
 <a href="josuke.jpg"><img alt="josuke" src="josuke.jpg"></a>

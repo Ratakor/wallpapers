@@ -188,8 +188,6 @@
 
 <a href="2pm-lost-underworld.png"><img alt="2pm-lost-underworld" src="2pm-lost-underworld.png"></a>
 
-<a href="b-333.jpg"><img alt="b-333" src="b-333.jpg"></a>
-
 <a href="spawn2.jpg"><img alt="spawn2" src="spawn2.jpg"></a>
 
 <a href="audio-bunny.png"><img alt="audio-bunny" src="audio-bunny.png"></a>

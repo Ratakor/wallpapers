@@ -48,8 +48,6 @@
 
 <a href="fauux-07.png"><img alt="fauux-07" src="fauux-07.png"></a>
 
-<a href="wallhaven-0pom5m.jpg"><img alt="wallhaven-0pom5m" src="wallhaven-0pom5m.jpg"></a>
-
 <a href="wallhaven-428gj9.jpg"><img alt="wallhaven-428gj9" src="wallhaven-428gj9.jpg"></a>
 
 <a href="fauux-06.png"><img alt="fauux-06" src="fauux-06.png"></a>
