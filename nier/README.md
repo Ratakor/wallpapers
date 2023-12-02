@@ -2,6 +2,8 @@
 
 <a href="932574.jpg"><img alt="932574" src="932574.jpg"></a>
 
+<a href="nr-b2.jpg"><img alt="nr-b2" src="nr-b2.jpg"></a>
+
 <a href="819005.jpg"><img alt="819005" src="819005.jpg"></a>
 
 <a href="b-187.jpg"><img alt="b-187" src="b-187.jpg"></a>
