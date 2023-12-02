@@ -145,6 +145,7 @@ Categorized wallpaper showcase. two pictures per category.
 - <https://brockhoferart.com/>
 - <https://wallhaven.cc/>
 - <https://github.com/dharmx/walls/>
+- <https://github.com/ThePrimeagen/anime/>
 - I don't recall other
 
 ## Ownership
