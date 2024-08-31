@@ -12,41 +12,41 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## unsorted
 
-<a href="../unsorted/landscape.jpg"><img alt="landscape" src="../unsorted/landscape.jpg"></a><br/><br/>
+<a href="../unsorted/es5_night.jpg"><img alt="es5_night" src="../unsorted/es5_night.jpg"></a><br/><br/>
 
-<a href="../unsorted/1334105.jpeg"><img alt="1334105" src="../unsorted/1334105.jpeg"></a><br/><br/>
+<a href="../unsorted/orna.jpg"><img alt="orna" src="../unsorted/orna.jpg"></a><br/><br/>
 
 [Browse](../unsorted/README.md)
 
 ## evangelion
 
-<a href="../evangelion/evangelion-unit-002-red.png"><img alt="evangelion-unit-002-red" src="../evangelion/evangelion-unit-002-red.png"></a><br/><br/>
+<a href="../evangelion/748657.jpg"><img alt="748657" src="../evangelion/748657.jpg"></a><br/><br/>
 
-<a href="../evangelion/evangelion-sachael-rei.png"><img alt="evangelion-sachael-rei" src="../evangelion/evangelion-sachael-rei.png"></a><br/><br/>
+<a href="../evangelion/b-832.jpg"><img alt="b-832" src="../evangelion/b-832.jpg"></a><br/><br/>
 
 [Browse](../evangelion/README.md)
 
 ## darksouls
 
-<a href="../darksouls/wolf-gruvbox.png"><img alt="wolf-gruvbox" src="../darksouls/wolf-gruvbox.png"></a><br/><br/>
+<a href="../darksouls/wallhaven-3zj9wy.jpg"><img alt="wallhaven-3zj9wy" src="../darksouls/wallhaven-3zj9wy.jpg"></a><br/><br/>
 
-<a href="../darksouls/wallhaven-57qm99.jpg"><img alt="wallhaven-57qm99" src="../darksouls/wallhaven-57qm99.jpg"></a><br/><br/>
+<a href="../darksouls/soulofcinder.jpg"><img alt="soulofcinder" src="../darksouls/soulofcinder.jpg"></a><br/><br/>
 
 [Browse](../darksouls/README.md)
 
 ## girls
 
-<a href="../girls/b-843.jpg"><img alt="b-843" src="../girls/b-843.jpg"></a><br/><br/>
-
 <a href="../girls/b-629.jpg"><img alt="b-629" src="../girls/b-629.jpg"></a><br/><br/>
+
+<a href="../girls/b-843.jpg"><img alt="b-843" src="../girls/b-843.jpg"></a><br/><br/>
 
 [Browse](../girls/README.md)
 
 ## nature
 
-<a href="../nature/flowers.png"><img alt="flowers" src="../nature/flowers.png"></a><br/><br/>
+<a href="../nature/cameron-foth-xU5Sr5Vs6ak-unsplash.jpg"><img alt="cameron-foth-xU5Sr5Vs6ak-unsplash" src="../nature/cameron-foth-xU5Sr5Vs6ak-unsplash.jpg"></a><br/><br/>
 
-<a href="../nature/matador_rocks.jpg"><img alt="matador_rocks" src="../nature/matador_rocks.jpg"></a><br/><br/>
+<a href="../nature/waves.jpg"><img alt="waves" src="../nature/waves.jpg"></a><br/><br/>
 
 [Browse](../nature/README.md)
 
@@ -54,15 +54,15 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../solarized/solarized-planet.jpg"><img alt="solarized-planet" src="../solarized/solarized-planet.jpg"></a><br/><br/>
 
-<a href="../solarized/r2uhg0vjl2t81.png"><img alt="r2uhg0vjl2t81" src="../solarized/r2uhg0vjl2t81.png"></a><br/><br/>
+<a href="../solarized/knights-of-sidonia.png"><img alt="knights-of-sidonia" src="../solarized/knights-of-sidonia.png"></a><br/><br/>
 
 [Browse](../solarized/README.md)
 
 ## lain
 
-<a href="../lain/wallhaven-nkvg86.png"><img alt="wallhaven-nkvg86" src="../lain/wallhaven-nkvg86.png"></a><br/><br/>
+<a href="../lain/fauux-08.png"><img alt="fauux-08" src="../lain/fauux-08.png"></a><br/><br/>
 
-<a href="../lain/wallhaven-1jl6gw.png"><img alt="wallhaven-1jl6gw" src="../lain/wallhaven-1jl6gw.png"></a><br/><br/>
+<a href="../lain/fauux-03.png"><img alt="fauux-03" src="../lain/fauux-03.png"></a><br/><br/>
 
 [Browse](../lain/README.md)
 
@@ -70,15 +70,15 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../drawings/ll5spy1k38aa1.webp"><img alt="ll5spy1k38aa1" src="../drawings/ll5spy1k38aa1.webp"></a><br/><br/>
 
-<a href="../drawings/jrvrsi5r38aa1.webp"><img alt="jrvrsi5r38aa1" src="../drawings/jrvrsi5r38aa1.webp"></a><br/><br/>
+<a href="../drawings/4a45b9f6a6f7c856356295af6bdad496.jpg"><img alt="4a45b9f6a6f7c856356295af6bdad496" src="../drawings/4a45b9f6a6f7c856356295af6bdad496.jpg"></a><br/><br/>
 
 [Browse](../drawings/README.md)
 
 ## punpun
 
-<a href="../punpun/b-465.jpg"><img alt="b-465" src="../punpun/b-465.jpg"></a><br/><br/>
+<a href="../punpun/punpun.jpg"><img alt="punpun" src="../punpun/punpun.jpg"></a><br/><br/>
 
-<a href="../punpun/959329.png"><img alt="959329" src="../punpun/959329.png"></a><br/><br/>
+<a href="../punpun/sachi.jpg"><img alt="sachi" src="../punpun/sachi.jpg"></a><br/><br/>
 
 [Browse](../punpun/README.md)
 
@@ -86,61 +86,61 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../omori/April.png"><img alt="April" src="../omori/April.png"></a><br/><br/>
 
-<a href="../omori/January.png"><img alt="January" src="../omori/January.png"></a><br/><br/>
+<a href="../omori/ol.png"><img alt="ol" src="../omori/ol.png"></a><br/><br/>
 
 [Browse](../omori/README.md)
 
 ## berserk
 
-<a href="../berserk/eclipse.jpg"><img alt="eclipse" src="../berserk/eclipse.jpg"></a><br/><br/>
+<a href="../berserk/iS21wPg.jpeg"><img alt="iS21wPg" src="../berserk/iS21wPg.jpeg"></a><br/><br/>
 
-<a href="../berserk/cyberpunk.jpg"><img alt="cyberpunk" src="../berserk/cyberpunk.jpg"></a><br/><br/>
+<a href="../berserk/guts-and-sky.jpg"><img alt="guts-and-sky" src="../berserk/guts-and-sky.jpg"></a><br/><br/>
 
 [Browse](../berserk/README.md)
 
 ## jinx
 
-<a href="../jinx/wallhaven-57olk9.png"><img alt="wallhaven-57olk9" src="../jinx/wallhaven-57olk9.png"></a><br/><br/>
+<a href="../jinx/wallhaven-l3xoor.jpg"><img alt="wallhaven-l3xoor" src="../jinx/wallhaven-l3xoor.jpg"></a><br/><br/>
 
-<a href="../jinx/wallhaven-57jd17.png"><img alt="wallhaven-57jd17" src="../jinx/wallhaven-57jd17.png"></a><br/><br/>
+<a href="../jinx/wallhaven-o37g7p.jpg"><img alt="wallhaven-o37g7p" src="../jinx/wallhaven-o37g7p.jpg"></a><br/><br/>
 
 [Browse](../jinx/README.md)
 
 ## doom
 
-<a href="../doom/DE_Holiday_Wallpaper_FULL-SIZE.jpg"><img alt="DE_Holiday_Wallpaper_FULL-SIZE" src="../doom/DE_Holiday_Wallpaper_FULL-SIZE.jpg"></a><br/><br/>
+<a href="../doom/Doom-Eternal_Slayer_Army_Wallpaper_1920x1080-01.jpg"><img alt="Doom-Eternal_Slayer_Army_Wallpaper_1920x1080-01" src="../doom/Doom-Eternal_Slayer_Army_Wallpaper_1920x1080-01.jpg"></a><br/><br/>
 
-<a href="../doom/Doom-Eternal_Hellgate_Wallpaper_1920x1080-01.jpg"><img alt="Doom-Eternal_Hellgate_Wallpaper_1920x1080-01" src="../doom/Doom-Eternal_Hellgate_Wallpaper_1920x1080-01.jpg"></a><br/><br/>
+<a href="../doom/DE_Holiday_Wallpaper_FULL-SIZE.jpg"><img alt="DE_Holiday_Wallpaper_FULL-SIZE" src="../doom/DE_Holiday_Wallpaper_FULL-SIZE.jpg"></a><br/><br/>
 
 [Browse](../doom/README.md)
 
 ## dededede
 
-<a href="../dededede/14668109_2133_1530_966198.jpeg"><img alt="14668109_2133_1530_966198" src="../dededede/14668109_2133_1530_966198.jpeg"></a><br/><br/>
+<a href="../dededede/14668984_2133_1530_1113852.jpeg"><img alt="14668984_2133_1530_1113852" src="../dededede/14668984_2133_1530_1113852.jpeg"></a><br/><br/>
 
-<a href="../dededede/14560290_2133_1530_438278.jpeg"><img alt="14560290_2133_1530_438278" src="../dededede/14560290_2133_1530_438278.jpeg"></a><br/><br/>
+<a href="../dededede/14560939_2133_1530_655631.jpeg"><img alt="14560939_2133_1530_655631" src="../dededede/14560939_2133_1530_655631.jpeg"></a><br/><br/>
 
 [Browse](../dededede/README.md)
 
 ## nier
 
-<a href="../nier/b-187.jpg"><img alt="b-187" src="../nier/b-187.jpg"></a><br/><br/>
-
 <a href="../nier/818994.jpg"><img alt="818994" src="../nier/818994.jpg"></a><br/><br/>
+
+<a href="../nier/818999.png"><img alt="818999" src="../nier/818999.png"></a><br/><br/>
 
 [Browse](../nier/README.md)
 
 ## fog
 
-<a href="../fog/forest_foggy_1.jpg"><img alt="forest_foggy_1" src="../fog/forest_foggy_1.jpg"></a><br/><br/>
+<a href="../fog/4.jpg"><img alt="4" src="../fog/4.jpg"></a><br/><br/>
 
-<a href="../fog/forest-under-clouds-1287075.jpg"><img alt="forest-under-clouds-1287075" src="../fog/forest-under-clouds-1287075.jpg"></a><br/><br/>
+<a href="../fog/florian-olivo-Xdtsflkdi0M-unsplash.jpg"><img alt="florian-olivo-Xdtsflkdi0M-unsplash" src="../fog/florian-olivo-Xdtsflkdi0M-unsplash.jpg"></a><br/><br/>
 
 [Browse](../fog/README.md)
 
 ## brockhofer
 
-<a href="../brockhofer/HyperBeast4.jpg"><img alt="HyperBeast4" src="../brockhofer/HyperBeast4.jpg"></a><br/><br/>
+<a href="../brockhofer/intel.jpg"><img alt="intel" src="../brockhofer/intel.jpg"></a><br/><br/>
 
 <a href="../brockhofer/OrganOpera.jpg"><img alt="OrganOpera" src="../brockhofer/OrganOpera.jpg"></a><br/><br/>
 
@@ -148,9 +148,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## jjba
 
-<a href="../jjba/jojo2.jpg"><img alt="jojo2" src="../jjba/jojo2.jpg"></a><br/><br/>
+<a href="../jjba/stardustcrusaders.png"><img alt="stardustcrusaders" src="../jjba/stardustcrusaders.png"></a><br/><br/>
 
-<a href="../jjba/jotaro.jpg"><img alt="jotaro" src="../jjba/jotaro.jpg"></a><br/><br/>
+<a href="../jjba/giorno.jpg"><img alt="giorno" src="../jjba/giorno.jpg"></a><br/><br/>
 
 [Browse](../jjba/README.md)
 
