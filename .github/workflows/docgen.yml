@@ -21,13 +21,14 @@ jobs:
       - name: Build
         run: |
           ./.github/docgen.py
+          ./.github/listgen.py
       - name: Commit
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           COMMIT_MSG: |
             Regen README.md
         run: |
-          git config user.email "actions@github"
+          git config user.email "actions@github.com"
           git config user.name "Github Actions"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git add .
