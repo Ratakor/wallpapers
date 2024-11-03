@@ -21,7 +21,6 @@ jobs:
       - name: Build
         run: |
           ./.github/docgen.py
-          ./.github/listgen.py
       - name: Commit
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
