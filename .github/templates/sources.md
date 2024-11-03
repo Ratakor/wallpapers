@@ -5,4 +5,5 @@
 - <https://brockhoferart.com/>
 - <https://wallhaven.cc/>
 - <https://github.com/dharmx/walls/>
+- <https://github.com/Edesem/Wallpapers>
 - I don't recall other
