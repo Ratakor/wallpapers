@@ -236,6 +236,8 @@
 
 <a href="OD_house_morn.jpg"><img alt="OD_house_morn" src="OD_house_morn.jpg"></a>
 
+<a href="the_spirit_of_war_1978.12.1.jpg"><img alt="the_spirit_of_war_1978.12.1" src="the_spirit_of_war_1978.12.1.jpg"></a>
+
 <a href="es6_night.jpg"><img alt="es6_night" src="es6_night.jpg"></a>
 
 <a href="death-machine.png"><img alt="death-machine" src="death-machine.png"></a>
@@ -411,6 +413,8 @@
 <a href="b-409.jpg"><img alt="b-409" src="b-409.jpg"></a>
 
 <a href="15.png"><img alt="15" src="15.png"></a>
+
+<a href="autumn_-_on_the_hudson_river_1963.9.1.jpg"><img alt="autumn_-_on_the_hudson_river_1963.9.1" src="autumn_-_on_the_hudson_river_1963.9.1.jpg"></a>
 
 <a href="purplePlane.jpg"><img alt="purplePlane" src="purplePlane.jpg"></a>
 
