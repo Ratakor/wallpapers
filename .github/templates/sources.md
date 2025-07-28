@@ -7,4 +7,5 @@
 - <https://github.com/dharmx/walls/>
 - <https://github.com/Edesem/Wallpapers>
 - <https://artvee.com/>
+- <https://omni.vi/>
 - I don't recall other
