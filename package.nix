@@ -1,6 +1,7 @@
 {
   lib,
   stdenvNoCC,
+  version ? "dirty",
   categories ? [ ], # leave empty for all
   extensions ? [ ], # leave empty for all, available: jpeg jpg png webp
 }:
@@ -26,9 +27,10 @@ if invalidCategories != [ ] then
 else
   stdenvNoCC.mkDerivation {
     pname = "wallpapers";
-    version = "1.0.0";
+    inherit version;
 
-    src = ./.;
+    # we could filter categories here
+    src = lib.cleanSource ./.;
 
     installPhase = ''
       mkdir -p $out
