@@ -14,8 +14,6 @@
 
 <a href="4-seasons.jpg"><img alt="4-seasons" src="4-seasons.jpg"></a>
 
-<a href="car.png"><img alt="car" src="car.png"></a>
-
 <a href="aesthetic_blue_jupiter.jpg"><img alt="aesthetic_blue_jupiter" src="aesthetic_blue_jupiter.jpg"></a>
 
 <a href="cofee-cat.png"><img alt="cofee-cat" src="cofee-cat.png"></a>
@@ -216,8 +214,6 @@
 
 <a href="b-346.jpg"><img alt="b-346" src="b-346.jpg"></a>
 
-<a href="maybe.jpg"><img alt="maybe" src="maybe.jpg"></a>
-
 <a href="yellow.jpg"><img alt="yellow" src="yellow.jpg"></a>
 
 <a href="city-apartments-purple-sunset.png"><img alt="city-apartments-purple-sunset" src="city-apartments-purple-sunset.png"></a>
@@ -229,8 +225,6 @@
 <a href="caJoiwr.jpeg"><img alt="caJoiwr" src="caJoiwr.jpeg"></a>
 
 <a href="vain_wpp.png"><img alt="vain_wpp" src="vain_wpp.png"></a>
-
-<a href="city.png"><img alt="city" src="city.png"></a>
 
 <a href="b-594.jpg"><img alt="b-594" src="b-594.jpg"></a>
 
@@ -247,8 +241,6 @@
 <a href="es4_night.jpg"><img alt="es4_night" src="es4_night.jpg"></a>
 
 <a href="omnicide.png"><img alt="omnicide" src="omnicide.png"></a>
-
-<a href="city.jpg"><img alt="city" src="city.jpg"></a>
 
 <a href="64.jpg"><img alt="64" src="64.jpg"></a>
 
@@ -355,8 +347,6 @@
 <a href="175fe5597b12c33ba7c9864404772bbd.jpg"><img alt="175fe5597b12c33ba7c9864404772bbd" src="175fe5597b12c33ba7c9864404772bbd.jpg"></a>
 
 <a href="Wallpaper_2.jpg"><img alt="Wallpaper_2" src="Wallpaper_2.jpg"></a>
-
-<a href="4m39g2y6kvl91.png"><img alt="4m39g2y6kvl91" src="4m39g2y6kvl91.png"></a>
 
 <a href="75.jpg"><img alt="75" src="75.jpg"></a>
 

@@ -32,8 +32,6 @@
 
 <a href="skeleton-girl-minimalist.png"><img alt="skeleton-girl-minimalist" src="skeleton-girl-minimalist.png"></a>
 
-<a href="b-595.jpg"><img alt="b-595" src="b-595.jpg"></a>
-
 <a href="black-hole-landscape.png"><img alt="black-hole-landscape" src="black-hole-landscape.png"></a>
 
 <a href="girl-portrait-soft-light.png"><img alt="girl-portrait-soft-light" src="girl-portrait-soft-light.png"></a>
@@ -73,8 +71,6 @@
 <a href="abstract-blue-orange-girl.jpeg"><img alt="abstract-blue-orange-girl" src="abstract-blue-orange-girl.jpeg"></a>
 
 <a href="b-501.jpg"><img alt="b-501" src="b-501.jpg"></a>
-
-<a href="b-849.jpg"><img alt="b-849" src="b-849.jpg"></a>
 
 <a href="girl-mask-hate-cap.jpg"><img alt="girl-mask-hate-cap" src="girl-mask-hate-cap.jpg"></a>
 

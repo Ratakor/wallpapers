@@ -36,8 +36,6 @@
 
 <a href="eo-red-sea-minimalist.jpg"><img alt="eo-red-sea-minimalist" src="eo-red-sea-minimalist.jpg"></a>
 
-<a href="knight-bride-flowers.jpg"><img alt="knight-bride-flowers" src="knight-bride-flowers.jpg"></a>
-
 <a href="77-Iruel.jpg"><img alt="77-Iruel" src="77-Iruel.jpg"></a>
 
 <a href="evangelion-shamshel.jpg"><img alt="evangelion-shamshel" src="evangelion-shamshel.jpg"></a>
