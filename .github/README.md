@@ -14,85 +14,157 @@ git clone https://github.com/ratakor/wallpapers --depth=1
 
 Categorized wallpaper showcase. two pictures per category.
 
-## dededede
+## jinx
 
-<a href="../dededede/kadode-flying-propeller.jpeg"><img alt="kadode-flying-propeller" src="../dededede/kadode-flying-propeller.jpeg"></a><br/><br/>
+<a href="../jinx/wallhaven-wqrk67.png"><img alt="wallhaven-wqrk67" src="../jinx/wallhaven-wqrk67.png"></a><br/><br/>
 
-<a href="../dededede/ouran-sketchy.jpeg"><img alt="ouran-sketchy" src="../dededede/ouran-sketchy.jpeg"></a><br/><br/>
+<a href="../jinx/wallhaven-57jd17.png"><img alt="wallhaven-57jd17" src="../jinx/wallhaven-57jd17.png"></a><br/><br/>
 
-[Browse](../dededede/README.md)
+[Browse](../jinx/README.md)
 
-## nature
+## evangelion
 
-<a href="../nature/cameron-foth-xU5Sr5Vs6ak-unsplash.jpg"><img alt="cameron-foth-xU5Sr5Vs6ak-unsplash" src="../nature/cameron-foth-xU5Sr5Vs6ak-unsplash.jpg"></a><br/><br/>
+<a href="../evangelion/79-Leliel.jpg"><img alt="79-Leliel" src="../evangelion/79-Leliel.jpg"></a><br/><br/>
 
-<a href="../nature/bluemtn_01_d.jpg"><img alt="bluemtn_01_d" src="../nature/bluemtn_01_d.jpg"></a><br/><br/>
+<a href="../evangelion/evangelion-shamshel.jpg"><img alt="evangelion-shamshel" src="../evangelion/evangelion-shamshel.jpg"></a><br/><br/>
 
-[Browse](../nature/README.md)
+[Browse](../evangelion/README.md)
 
-## brockhofer
+## omori
 
-<a href="../brockhofer/TheRedMist.jpg"><img alt="TheRedMist" src="../brockhofer/TheRedMist.jpg"></a><br/><br/>
+<a href="../omori/May.png"><img alt="May" src="../omori/May.png"></a><br/><br/>
 
-<a href="../brockhofer/HyperBeast3.jpg"><img alt="HyperBeast3" src="../brockhofer/HyperBeast3.jpg"></a><br/><br/>
+<a href="../omori/August.png"><img alt="August" src="../omori/August.png"></a><br/><br/>
 
-[Browse](../brockhofer/README.md)
+[Browse](../omori/README.md)
+
+## solarized
+
+<a href="../solarized/wallhaven-ymdvjg.png"><img alt="wallhaven-ymdvjg" src="../solarized/wallhaven-ymdvjg.png"></a><br/><br/>
+
+<a href="../solarized/22.jpg"><img alt="22" src="../solarized/22.jpg"></a><br/><br/>
+
+[Browse](../solarized/README.md)
 
 ## unsorted
 
-<a href="../unsorted/aesthetic_blue_jupiter.jpg"><img alt="aesthetic_blue_jupiter" src="../unsorted/aesthetic_blue_jupiter.jpg"></a><br/><br/>
+<a href="../unsorted/pokemon-landscape-pixel.png"><img alt="pokemon-landscape-pixel" src="../unsorted/pokemon-landscape-pixel.png"></a><br/><br/>
 
-<a href="../unsorted/wallhaven-gjd1ee.jpg"><img alt="wallhaven-gjd1ee" src="../unsorted/wallhaven-gjd1ee.jpg"></a><br/><br/>
+<a href="../unsorted/gruvbox_anime_landscape.png"><img alt="gruvbox_anime_landscape" src="../unsorted/gruvbox_anime_landscape.png"></a><br/><br/>
 
 [Browse](../unsorted/README.md)
 
+## nier
+
+<a href="../nier/nr-b2.jpg"><img alt="nr-b2" src="../nier/nr-b2.jpg"></a><br/><br/>
+
+<a href="../nier/818999.png"><img alt="818999" src="../nier/818999.png"></a><br/><br/>
+
+[Browse](../nier/README.md)
+
+## flowers
+
+<a href="../flowers/purple-lilac-macro.jpg"><img alt="purple-lilac-macro" src="../flowers/purple-lilac-macro.jpg"></a><br/><br/>
+
+<a href="../flowers/japanese-sakura-painting-night.png"><img alt="japanese-sakura-painting-night" src="../flowers/japanese-sakura-painting-night.png"></a><br/><br/>
+
+[Browse](../flowers/README.md)
+
+## dededede
+
+<a href="../dededede/ouran-sketchy.jpeg"><img alt="ouran-sketchy" src="../dededede/ouran-sketchy.jpeg"></a><br/><br/>
+
+<a href="../dededede/girls-falling-city.jpeg"><img alt="girls-falling-city" src="../dededede/girls-falling-city.jpeg"></a><br/><br/>
+
+[Browse](../dededede/README.md)
+
+## jjba
+
+<a href="../jjba/jesus.png"><img alt="jesus" src="../jjba/jesus.png"></a><br/><br/>
+
+<a href="../jjba/jotarovsdio.jpg"><img alt="jotarovsdio" src="../jjba/jotarovsdio.jpg"></a><br/><br/>
+
+[Browse](../jjba/README.md)
+
+## lain
+
+<a href="../lain/art-pape.png"><img alt="art-pape" src="../lain/art-pape.png"></a><br/><br/>
+
+<a href="../lain/last_ghost_pape.png"><img alt="last_ghost_pape" src="../lain/last_ghost_pape.png"></a><br/><br/>
+
+[Browse](../lain/README.md)
+
+## nature
+
+<a href="../nature/flower-1.jpg"><img alt="flower-1" src="../nature/flower-1.jpg"></a><br/><br/>
+
+<a href="../nature/Stones.jpg"><img alt="Stones" src="../nature/Stones.jpg"></a><br/><br/>
+
+[Browse](../nature/README.md)
+
 ## fog
 
-<a href="../fog/fog_yosemite_valley_john_towner.jpg"><img alt="fog_yosemite_valley_john_towner" src="../fog/fog_yosemite_valley_john_towner.jpg"></a><br/><br/>
+<a href="../fog/Misty-Mountain.jpg"><img alt="Misty-Mountain" src="../fog/Misty-Mountain.jpg"></a><br/><br/>
 
-<a href="../fog/caseen-kyle-registos-JOTO7YjLiO0-unsplash.jpg"><img alt="caseen-kyle-registos-JOTO7YjLiO0-unsplash" src="../fog/caseen-kyle-registos-JOTO7YjLiO0-unsplash.jpg"></a><br/><br/>
+<a href="../fog/paul-gilmore-KT3WlrL_bsg-unsplash.jpg"><img alt="paul-gilmore-KT3WlrL_bsg-unsplash" src="../fog/paul-gilmore-KT3WlrL_bsg-unsplash.jpg"></a><br/><br/>
 
 [Browse](../fog/README.md)
 
-## girls
+## paintings
 
-<a href="../girls/abstract-blue-orange-girl.jpeg"><img alt="abstract-blue-orange-girl" src="../girls/abstract-blue-orange-girl.jpeg"></a><br/><br/>
+<a href="../paintings/On_the_Clyde_Glasgow-1879-John_Atkinson_Grimshaw.jpg"><img alt="On_the_Clyde_Glasgow-1879-John_Atkinson_Grimshaw" src="../paintings/On_the_Clyde_Glasgow-1879-John_Atkinson_Grimshaw.jpg"></a><br/><br/>
 
-<a href="../girls/girl-underwater-bubbles.jpg"><img alt="girl-underwater-bubbles" src="../girls/girl-underwater-bubbles.jpg"></a><br/><br/>
+<a href="../paintings/St_Ann’s_Square_Manchester-John_Atkinson_Grimshaw.jpg"><img alt="St_Ann’s_Square_Manchester-John_Atkinson_Grimshaw" src="../paintings/St_Ann’s_Square_Manchester-John_Atkinson_Grimshaw.jpg"></a><br/><br/>
 
-[Browse](../girls/README.md)
+[Browse](../paintings/README.md)
+
+## punpun
+
+<a href="../punpun/b-554.jpg"><img alt="b-554" src="../punpun/b-554.jpg"></a><br/><br/>
+
+<a href="../punpun/sachi.jpg"><img alt="sachi" src="../punpun/sachi.jpg"></a><br/><br/>
+
+[Browse](../punpun/README.md)
+
+## darksouls
+
+<a href="../darksouls/wallhaven-8x3eej.png"><img alt="wallhaven-8x3eej" src="../darksouls/wallhaven-8x3eej.png"></a><br/><br/>
+
+<a href="../darksouls/wolf.png"><img alt="wolf" src="../darksouls/wolf.png"></a><br/><br/>
+
+[Browse](../darksouls/README.md)
 
 ## doom
 
-<a href="../doom/DE_Holiday_Wallpaper_FULL-SIZE.jpg"><img alt="DE_Holiday_Wallpaper_FULL-SIZE" src="../doom/DE_Holiday_Wallpaper_FULL-SIZE.jpg"></a><br/><br/>
+<a href="../doom/The_DOOM_Slayer_Wallpaper_1920x1080.jpg"><img alt="The_DOOM_Slayer_Wallpaper_1920x1080" src="../doom/The_DOOM_Slayer_Wallpaper_1920x1080.jpg"></a><br/><br/>
 
 <a href="../doom/DOOM-25thAnniversary_wallpaper_1920x1080-01.jpg"><img alt="DOOM-25thAnniversary_wallpaper_1920x1080-01" src="../doom/DOOM-25thAnniversary_wallpaper_1920x1080-01.jpg"></a><br/><br/>
 
 [Browse](../doom/README.md)
 
-## omori
+## drawings
 
-<a href="../omori/March.png"><img alt="March" src="../omori/March.png"></a><br/><br/>
+<a href="../drawings/t5v1ltio38aa1.webp"><img alt="t5v1ltio38aa1" src="../drawings/t5v1ltio38aa1.webp"></a><br/><br/>
 
-<a href="../omori/October.png"><img alt="October" src="../omori/October.png"></a><br/><br/>
+<a href="../drawings/desert-ruins-tower.png"><img alt="desert-ruins-tower" src="../drawings/desert-ruins-tower.png"></a><br/><br/>
 
-[Browse](../omori/README.md)
+[Browse](../drawings/README.md)
 
-## evangelion
+## girls
 
-<a href="../evangelion/spear-of-longinus-moon.jpg"><img alt="spear-of-longinus-moon" src="../evangelion/spear-of-longinus-moon.jpg"></a><br/><br/>
+<a href="../girls/short-hair-girl-intense-stare.jpg"><img alt="short-hair-girl-intense-stare" src="../girls/short-hair-girl-intense-stare.jpg"></a><br/><br/>
 
-<a href="../evangelion/shinji-floating-minimalist.jpg"><img alt="shinji-floating-minimalist" src="../evangelion/shinji-floating-minimalist.jpg"></a><br/><br/>
+<a href="../girls/cyberpunk-girl-neon.jpg"><img alt="cyberpunk-girl-neon" src="../girls/cyberpunk-girl-neon.jpg"></a><br/><br/>
 
-[Browse](../evangelion/README.md)
+[Browse](../girls/README.md)
 
-## paintings
+## brockhofer
 
-<a href="../paintings/Under_the_Silvery_Moonbeams-1882-John_Atkinson_Grimshaw.jpg"><img alt="Under_the_Silvery_Moonbeams-1882-John_Atkinson_Grimshaw" src="../paintings/Under_the_Silvery_Moonbeams-1882-John_Atkinson_Grimshaw.jpg"></a><br/><br/>
+<a href="../brockhofer/CalamityBeast.jpg"><img alt="CalamityBeast" src="../brockhofer/CalamityBeast.jpg"></a><br/><br/>
 
-<a href="../paintings/Stepping_Stones_Bolton_Abbey-1868-John_Atkinson_Grimshaw.jpg"><img alt="Stepping_Stones_Bolton_Abbey-1868-John_Atkinson_Grimshaw" src="../paintings/Stepping_Stones_Bolton_Abbey-1868-John_Atkinson_Grimshaw.jpg"></a><br/><br/>
+<a href="../brockhofer/HyperBeast3.jpg"><img alt="HyperBeast3" src="../brockhofer/HyperBeast3.jpg"></a><br/><br/>
 
-[Browse](../paintings/README.md)
+[Browse](../brockhofer/README.md)
 
 ## niri
 
@@ -102,85 +174,13 @@ Categorized wallpaper showcase. two pictures per category.
 
 [Browse](../niri/README.md)
 
-## darksouls
-
-<a href="../darksouls/soulofcinder.jpg"><img alt="soulofcinder" src="../darksouls/soulofcinder.jpg"></a><br/><br/>
-
-<a href="../darksouls/wallhaven-769y2o.png"><img alt="wallhaven-769y2o" src="../darksouls/wallhaven-769y2o.png"></a><br/><br/>
-
-[Browse](../darksouls/README.md)
-
-## solarized
-
-<a href="../solarized/22.jpg"><img alt="22" src="../solarized/22.jpg"></a><br/><br/>
-
-<a href="../solarized/knights-of-sidonia.png"><img alt="knights-of-sidonia" src="../solarized/knights-of-sidonia.png"></a><br/><br/>
-
-[Browse](../solarized/README.md)
-
-## lain
-
-<a href="../lain/kero-wpp.png"><img alt="kero-wpp" src="../lain/kero-wpp.png"></a><br/><br/>
-
-<a href="../lain/impervisity.png"><img alt="impervisity" src="../lain/impervisity.png"></a><br/><br/>
-
-[Browse](../lain/README.md)
-
-## drawings
-
-<a href="../drawings/purple-sky-dead-tree-car.png"><img alt="purple-sky-dead-tree-car" src="../drawings/purple-sky-dead-tree-car.png"></a><br/><br/>
-
-<a href="../drawings/cyberpunk-van-sunset.jpg"><img alt="cyberpunk-van-sunset" src="../drawings/cyberpunk-van-sunset.jpg"></a><br/><br/>
-
-[Browse](../drawings/README.md)
-
 ## berserk
-
-<a href="../berserk/guts-scream.jpeg"><img alt="guts-scream" src="../berserk/guts-scream.jpeg"></a><br/><br/>
 
 <a href="../berserk/eclipse.jpg"><img alt="eclipse" src="../berserk/eclipse.jpg"></a><br/><br/>
 
+<a href="../berserk/spirit.jpg"><img alt="spirit" src="../berserk/spirit.jpg"></a><br/><br/>
+
 [Browse](../berserk/README.md)
-
-## nier
-
-<a href="../nier/818994.jpg"><img alt="818994" src="../nier/818994.jpg"></a><br/><br/>
-
-<a href="../nier/1067617.jpg"><img alt="1067617" src="../nier/1067617.jpg"></a><br/><br/>
-
-[Browse](../nier/README.md)
-
-## flowers
-
-<a href="../flowers/cherry-blue.jpg"><img alt="cherry-blue" src="../flowers/cherry-blue.jpg"></a><br/><br/>
-
-<a href="../flowers/alexander-montes-Uj-XNXk210-unsplash.jpg"><img alt="alexander-montes-Uj-XNXk210-unsplash" src="../flowers/alexander-montes-Uj-XNXk210-unsplash.jpg"></a><br/><br/>
-
-[Browse](../flowers/README.md)
-
-## jjba
-
-<a href="../jjba/jotaro3.jpg"><img alt="jotaro3" src="../jjba/jotaro3.jpg"></a><br/><br/>
-
-<a href="../jjba/windows.jpg"><img alt="windows" src="../jjba/windows.jpg"></a><br/><br/>
-
-[Browse](../jjba/README.md)
-
-## punpun
-
-<a href="../punpun/sachi.jpg"><img alt="sachi" src="../punpun/sachi.jpg"></a><br/><br/>
-
-<a href="../punpun/punpun.jpg"><img alt="punpun" src="../punpun/punpun.jpg"></a><br/><br/>
-
-[Browse](../punpun/README.md)
-
-## jinx
-
-<a href="../jinx/wallhaven-o3e7z9.png"><img alt="wallhaven-o3e7z9" src="../jinx/wallhaven-o3e7z9.png"></a><br/><br/>
-
-<a href="../jinx/wallhaven-72x93e.png"><img alt="wallhaven-72x93e" src="../jinx/wallhaven-72x93e.png"></a><br/><br/>
-
-[Browse](../jinx/README.md)
 
 ## Sources
 
