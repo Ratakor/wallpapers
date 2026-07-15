@@ -1,6 +1,7 @@
 {
   lib,
   stdenvNoCC,
+
   version ? "dirty",
   excludedCategories ? [ ],
   extraWallpapers ? [ ],
