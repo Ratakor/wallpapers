@@ -15,10 +15,10 @@
   excludedCategories ? [ ],
   extraWallpapers ? [ ],
   extensions ? [
-    ".jpg"
-    ".jpeg"
-    ".png"
-    ".webp"
+    "jpg"
+    "jpeg"
+    "png"
+    "webp"
   ],
 }:
 let
@@ -62,7 +62,7 @@ let
   #     if isAttrs value then acc // flattenAttrs value else acc // { ${name} = value; }
   #   ) { } (attrNames attrs);
 
-  hasValidExtension = fileName: any (ext: hasSuffix ext "${fileName}") extensions;
+  hasValidExtension = fileName: any (ext: hasSuffix ext fileName) extensions;
 
   # filterPath =
   #   name: type:
@@ -122,7 +122,10 @@ let
   #   });
 
   mkWallpapers =
-    dir:
+    dirArg:
+    let
+      dir = toString dirArg;
+    in
     concatMapAttrs (
       name: type:
       let
@@ -136,12 +139,6 @@ let
           ${name} = path;
         }
     ) (fetchPath dir);
-  # internalFunc (cleanSourceWith {
-  #   src = cleanSource dir;
-  #   filter = filterPath;
-  # });
-
-  # categories = attrNames (readDir src); # |> concat extraWallpapers;
 
   # wallpapers = genAttrs categories (
   #   category:
