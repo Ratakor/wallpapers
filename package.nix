@@ -32,6 +32,6 @@ stdenvNoCC.mkDerivation {
     mkdir -p $out
   ''
   + concatMapStringsSep "\n" (
-    category: "find '${category}' -maxdepth 1 -type f ! -name 'README.md' -exec cp -t $out/ {} \\;"
+    category: "find '${category}' -type f ! -name 'README.md' -exec cp -t $out/ '{}' \\+"
   ) categories;
 }
