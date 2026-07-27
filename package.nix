@@ -2,41 +2,35 @@
   lib,
   stdenvNoCC,
   version ? "dirty",
-  categories ? [ ], # leave empty for all
-  extensions ? [ ], # leave empty for all, available: jpeg jpg png webp
+  excludedCategories ? [ ],
+  extraWallpapers ? [ ],
 }:
 let
-  allCategories = lib.filterAttrs (name: type: type == "directory" && !(lib.hasPrefix "." name)) (
-    builtins.readDir ./.
-  );
+  inherit (builtins) elem readDir attrNames;
+  inherit (lib.attrsets) filterAttrs;
+  inherit (lib.sources) cleanSource;
+  inherit (lib.strings) hasPrefix concatMapStringsSep;
+  inherit (lib.trivial) concat;
 
-  selectedCategories = if categories == [ ] then builtins.attrNames allCategories else categories;
-
-  invalidCategories = builtins.filter (
-    category: !(builtins.hasAttr category allCategories)
-  ) selectedCategories;
-
-  extFilter =
-    if extensions == [ ] then
-      ""
-    else
-      "\\( ${lib.concatMapStringsSep " -o " (ext: "-name '*.${ext}'") extensions} \\)";
+  categories =
+    readDir ./.
+    |> filterAttrs (
+      name: type: type == "directory" && !(hasPrefix "." name) && !(elem name excludedCategories)
+    )
+    |> attrNames
+    |> concat extraWallpapers;
 in
-if invalidCategories != [ ] then
-  throw "Invalid categories: ${lib.concatStringsSep ", " invalidCategories}"
-else
-  stdenvNoCC.mkDerivation {
-    pname = "wallpapers";
-    inherit version;
+stdenvNoCC.mkDerivation {
+  pname = "wallpapers";
+  inherit version;
 
-    # we could filter categories here
-    src = lib.cleanSource ./.;
+  # we could filter categories here but it's annoying
+  src = cleanSource ./.;
 
-    installPhase = ''
-      mkdir -p $out
-    ''
-    + lib.concatMapStringsSep "\n" (
-      category:
-      "find '${category}' -maxdepth 1 -type f ${extFilter} ! -name 'README.md' -exec cp -t $out/ {} \\;"
-    ) selectedCategories;
-  }
+  installPhase = ''
+    mkdir -p $out
+  ''
+  + concatMapStringsSep "\n" (
+    category: "find '${category}' -maxdepth 1 -type f ! -name 'README.md' -exec cp -t $out/ {} \\;"
+  ) categories;
+}
