@@ -16,15 +16,15 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## darksouls
 
-<a href="../darksouls/wolf-gruvbox.webp"><img alt="wolf-gruvbox" src="../darksouls/wolf-gruvbox.webp"></a><br/><br/>
+<a href="../darksouls/wallhaven-8x3eej.webp"><img alt="wallhaven-8x3eej" src="../darksouls/wallhaven-8x3eej.webp"></a><br/><br/>
 
-<a href="../darksouls/soul-of-cinder-swords.webp"><img alt="soul-of-cinder-swords" src="../darksouls/soul-of-cinder-swords.webp"></a><br/><br/>
+<a href="../darksouls/Dark-Souls-III.webp"><img alt="Dark-Souls-III" src="../darksouls/Dark-Souls-III.webp"></a><br/><br/>
 
 [Browse](../darksouls/README.md)
 
 ## nier
 
-<a href="../nier/1067617.webp"><img alt="1067617" src="../nier/1067617.webp"></a><br/><br/>
+<a href="../nier/932574.webp"><img alt="932574" src="../nier/932574.webp"></a><br/><br/>
 
 <a href="../nier/818994.webp"><img alt="818994" src="../nier/818994.webp"></a><br/><br/>
 
@@ -32,39 +32,39 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## jjba
 
-<a href="../jjba/jotaro.webp"><img alt="jotaro" src="../jjba/jotaro.webp"></a><br/><br/>
+<a href="../jjba/jojo3.webp"><img alt="jojo3" src="../jjba/jojo3.webp"></a><br/><br/>
 
-<a href="../jjba/giorno.webp"><img alt="giorno" src="../jjba/giorno.webp"></a><br/><br/>
+<a href="../jjba/jojo.webp"><img alt="jojo" src="../jjba/jojo.webp"></a><br/><br/>
 
 [Browse](../jjba/README.md)
 
 ## brockhofer
 
-<a href="../brockhofer/HyperBeast7.webp"><img alt="HyperBeast7" src="../brockhofer/HyperBeast7.webp"></a><br/><br/>
+<a href="../brockhofer/HyperBeast1.webp"><img alt="HyperBeast1" src="../brockhofer/HyperBeast1.webp"></a><br/><br/>
 
-<a href="../brockhofer/TheRedMist.webp"><img alt="TheRedMist" src="../brockhofer/TheRedMist.webp"></a><br/><br/>
+<a href="../brockhofer/untitled.webp"><img alt="untitled" src="../brockhofer/untitled.webp"></a><br/><br/>
 
 [Browse](../brockhofer/README.md)
 
 ## evangelion
 
-<a href="../evangelion/evangelion-shamshel.webp"><img alt="evangelion-shamshel" src="../evangelion/evangelion-shamshel.webp"></a><br/><br/>
+<a href="../evangelion/shinji-floating-minimalist.webp"><img alt="shinji-floating-minimalist" src="../evangelion/shinji-floating-minimalist.webp"></a><br/><br/>
 
-<a href="../evangelion/evangelion-ramiel-night.webp"><img alt="evangelion-ramiel-night" src="../evangelion/evangelion-ramiel-night.webp"></a><br/><br/>
+<a href="../evangelion/evangelion-magi-yellow.webp"><img alt="evangelion-magi-yellow" src="../evangelion/evangelion-magi-yellow.webp"></a><br/><br/>
 
 [Browse](../evangelion/README.md)
 
 ## omori
 
-<a href="../omori/August.webp"><img alt="August" src="../omori/August.webp"></a><br/><br/>
+<a href="../omori/October.webp"><img alt="October" src="../omori/October.webp"></a><br/><br/>
 
-<a href="../omori/April.webp"><img alt="April" src="../omori/April.webp"></a><br/><br/>
+<a href="../omori/June.webp"><img alt="June" src="../omori/June.webp"></a><br/><br/>
 
 [Browse](../omori/README.md)
 
 ## doom
 
-<a href="../doom/Christmas.webp"><img alt="Christmas" src="../doom/Christmas.webp"></a><br/><br/>
+<a href="../doom/DOOM-25thAnniversary_wallpaper_1920x1080-01.webp"><img alt="DOOM-25thAnniversary_wallpaper_1920x1080-01" src="../doom/DOOM-25thAnniversary_wallpaper_1920x1080-01.webp"></a><br/><br/>
 
 <a href="../doom/DE_Holiday_Wallpaper_FULL-SIZE.webp"><img alt="DE_Holiday_Wallpaper_FULL-SIZE" src="../doom/DE_Holiday_Wallpaper_FULL-SIZE.webp"></a><br/><br/>
 
@@ -72,87 +72,87 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## berserk
 
-<a href="../berserk/god-hand.webp"><img alt="god-hand" src="../berserk/god-hand.webp"></a><br/><br/>
+<a href="../berserk/cyberpunk.webp"><img alt="cyberpunk" src="../berserk/cyberpunk.webp"></a><br/><br/>
 
-<a href="../berserk/glowiesword.webp"><img alt="glowiesword" src="../berserk/glowiesword.webp"></a><br/><br/>
+<a href="../berserk/guts-and-sky.webp"><img alt="guts-and-sky" src="../berserk/guts-and-sky.webp"></a><br/><br/>
 
 [Browse](../berserk/README.md)
 
 ## flowers
 
-<a href="../flowers/sebastian-molina-fotografia-natjj0CTa-s.webp"><img alt="sebastian-molina-fotografia-natjj0CTa-s" src="../flowers/sebastian-molina-fotografia-natjj0CTa-s.webp"></a><br/><br/>
+<a href="../flowers/dark-muted-bush-green-pastel.webp"><img alt="dark-muted-bush-green-pastel" src="../flowers/dark-muted-bush-green-pastel.webp"></a><br/><br/>
 
-<a href="../flowers/xuan-nguyen-g9g2JC4CzdA-unsplash.webp"><img alt="xuan-nguyen-g9g2JC4CzdA-unsplash" src="../flowers/xuan-nguyen-g9g2JC4CzdA-unsplash.webp"></a><br/><br/>
+<a href="../flowers/alex-blajan-Yeg0Od9_69I-unsplash.webp"><img alt="alex-blajan-Yeg0Od9_69I-unsplash" src="../flowers/alex-blajan-Yeg0Od9_69I-unsplash.webp"></a><br/><br/>
 
 [Browse](../flowers/README.md)
 
 ## unsorted
 
-<a href="../unsorted/b-550.webp"><img alt="b-550" src="../unsorted/b-550.webp"></a><br/><br/>
+<a href="../unsorted/omnitile-notext.webp"><img alt="omnitile-notext" src="../unsorted/omnitile-notext.webp"></a><br/><br/>
 
-<a href="../unsorted/67.webp"><img alt="67" src="../unsorted/67.webp"></a><br/><br/>
+<a href="../unsorted/romandream.webp"><img alt="romandream" src="../unsorted/romandream.webp"></a><br/><br/>
 
 [Browse](../unsorted/README.md)
 
 ## lain
 
-<a href="../lain/demiurge.webp"><img alt="demiurge" src="../lain/demiurge.webp"></a><br/><br/>
+<a href="../lain/wallhaven-4l31ly.webp"><img alt="wallhaven-4l31ly" src="../lain/wallhaven-4l31ly.webp"></a><br/><br/>
 
-<a href="../lain/kero-wpp.webp"><img alt="kero-wpp" src="../lain/kero-wpp.webp"></a><br/><br/>
+<a href="../lain/greetings_wpp.webp"><img alt="greetings_wpp" src="../lain/greetings_wpp.webp"></a><br/><br/>
 
 [Browse](../lain/README.md)
 
 ## drawings
 
-<a href="../drawings/epic-sunset-clouds-road.webp"><img alt="epic-sunset-clouds-road" src="../drawings/epic-sunset-clouds-road.webp"></a><br/><br/>
-
 <a href="../drawings/hand-muscles-anatomy.webp"><img alt="hand-muscles-anatomy" src="../drawings/hand-muscles-anatomy.webp"></a><br/><br/>
+
+<a href="../drawings/floating-islands-cabin-corgi.webp"><img alt="floating-islands-cabin-corgi" src="../drawings/floating-islands-cabin-corgi.webp"></a><br/><br/>
 
 [Browse](../drawings/README.md)
 
 ## solarized
 
-<a href="../solarized/vintage-casette.webp"><img alt="vintage-casette" src="../solarized/vintage-casette.webp"></a><br/><br/>
+<a href="../solarized/wallhaven-ymdvjg.webp"><img alt="wallhaven-ymdvjg" src="../solarized/wallhaven-ymdvjg.webp"></a><br/><br/>
 
-<a href="../solarized/lli0c12vlvd91.webp"><img alt="lli0c12vlvd91" src="../solarized/lli0c12vlvd91.webp"></a><br/><br/>
+<a href="../solarized/fre-sonneveld-K8iHtzoIKQ4-unsplash.webp"><img alt="fre-sonneveld-K8iHtzoIKQ4-unsplash" src="../solarized/fre-sonneveld-K8iHtzoIKQ4-unsplash.webp"></a><br/><br/>
 
 [Browse](../solarized/README.md)
 
 ## dededede
 
-<a href="../dededede/mothership-city-silhouette.webp"><img alt="mothership-city-silhouette" src="../dededede/mothership-city-silhouette.webp"></a><br/><br/>
+<a href="../dededede/mothership-explosion-debris.webp"><img alt="mothership-explosion-debris" src="../dededede/mothership-explosion-debris.webp"></a><br/><br/>
 
-<a href="../dededede/mothership-low-altitude.webp"><img alt="mothership-low-altitude" src="../dededede/mothership-low-altitude.webp"></a><br/><br/>
+<a href="../dededede/kadode-flying-propeller.webp"><img alt="kadode-flying-propeller" src="../dededede/kadode-flying-propeller.webp"></a><br/><br/>
 
 [Browse](../dededede/README.md)
 
 ## nature
 
-<a href="../nature/hunter-so-aPSa8EXX6L8-unsplash.webp"><img alt="hunter-so-aPSa8EXX6L8-unsplash" src="../nature/hunter-so-aPSa8EXX6L8-unsplash.webp"></a><br/><br/>
+<a href="../nature/bluemtn_01_d.webp"><img alt="bluemtn_01_d" src="../nature/bluemtn_01_d.webp"></a><br/><br/>
 
-<a href="../nature/extra-10.webp"><img alt="extra-10" src="../nature/extra-10.webp"></a><br/><br/>
+<a href="../nature/a_snowy_mountain_with_a_lake_in_the_middle.webp"><img alt="a_snowy_mountain_with_a_lake_in_the_middle" src="../nature/a_snowy_mountain_with_a_lake_in_the_middle.webp"></a><br/><br/>
 
 [Browse](../nature/README.md)
 
 ## jinx
 
-<a href="../jinx/wallhaven-57jd17.webp"><img alt="wallhaven-57jd17" src="../jinx/wallhaven-57jd17.webp"></a><br/><br/>
+<a href="../jinx/wallhaven-x8o5xv.webp"><img alt="wallhaven-x8o5xv" src="../jinx/wallhaven-x8o5xv.webp"></a><br/><br/>
 
-<a href="../jinx/wallhaven-o37g7p.webp"><img alt="wallhaven-o37g7p" src="../jinx/wallhaven-o37g7p.webp"></a><br/><br/>
+<a href="../jinx/wallhaven-l3opky.webp"><img alt="wallhaven-l3opky" src="../jinx/wallhaven-l3opky.webp"></a><br/><br/>
 
 [Browse](../jinx/README.md)
 
 ## girls
 
-<a href="../girls/b-883.webp"><img alt="b-883" src="../girls/b-883.webp"></a><br/><br/>
+<a href="../girls/b-551.webp"><img alt="b-551" src="../girls/b-551.webp"></a><br/><br/>
 
-<a href="../girls/b-548.webp"><img alt="b-548" src="../girls/b-548.webp"></a><br/><br/>
+<a href="../girls/cyber-girl-access-control.webp"><img alt="cyber-girl-access-control" src="../girls/cyber-girl-access-control.webp"></a><br/><br/>
 
 [Browse](../girls/README.md)
 
 ## punpun
 
-<a href="../punpun/colored.webp"><img alt="colored" src="../punpun/colored.webp"></a><br/><br/>
+<a href="../punpun/b-465.webp"><img alt="b-465" src="../punpun/b-465.webp"></a><br/><br/>
 
 <a href="../punpun/sachi.webp"><img alt="sachi" src="../punpun/sachi.webp"></a><br/><br/>
 
@@ -168,17 +168,17 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## paintings
 
-<a href="../paintings/A_Golden_Idyll-John_Atkinson_Grimshaw.webp"><img alt="A_Golden_Idyll-John_Atkinson_Grimshaw" src="../paintings/A_Golden_Idyll-John_Atkinson_Grimshaw.webp"></a><br/><br/>
+<a href="../paintings/Boar_Lane_Leeds_by_lamplight-1881-John_Atkinson_Grimshaw.webp"><img alt="Boar_Lane_Leeds_by_lamplight-1881-John_Atkinson_Grimshaw" src="../paintings/Boar_Lane_Leeds_by_lamplight-1881-John_Atkinson_Grimshaw.webp"></a><br/><br/>
 
-<a href="../paintings/Wilderness-Sanford_Robinson_Gifford.webp"><img alt="Wilderness-Sanford_Robinson_Gifford" src="../paintings/Wilderness-Sanford_Robinson_Gifford.webp"></a><br/><br/>
+<a href="../paintings/Shipping_on_the_Clyde-1881-John_Atkinson_Grimshaw.webp"><img alt="Shipping_on_the_Clyde-1881-John_Atkinson_Grimshaw" src="../paintings/Shipping_on_the_Clyde-1881-John_Atkinson_Grimshaw.webp"></a><br/><br/>
 
 [Browse](../paintings/README.md)
 
 ## fog
 
-<a href="../fog/chmyphotography-qI5XixBb6TU-unsplash.webp"><img alt="chmyphotography-qI5XixBb6TU-unsplash" src="../fog/chmyphotography-qI5XixBb6TU-unsplash.webp"></a><br/><br/>
+<a href="../fog/forest.webp"><img alt="forest" src="../fog/forest.webp"></a><br/><br/>
 
-<a href="../fog/GloomyWoods.webp"><img alt="GloomyWoods" src="../fog/GloomyWoods.webp"></a><br/><br/>
+<a href="../fog/florian-olivo-61R7g-mXxiM-unsplash.webp"><img alt="florian-olivo-61R7g-mXxiM-unsplash" src="../fog/florian-olivo-61R7g-mXxiM-unsplash.webp"></a><br/><br/>
 
 [Browse](../fog/README.md)
 
@@ -192,6 +192,7 @@ Categorized wallpaper showcase. two pictures per category.
 - <https://github.com/Edesem/Wallpapers>
 - <https://artvee.com/>
 - <https://omni.vi/>
+- <https://github.com/diinki/wallpapers>
 - I don't recall other
 
 ## Ownership
