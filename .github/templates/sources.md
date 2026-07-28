@@ -8,4 +8,5 @@
 - <https://github.com/Edesem/Wallpapers>
 - <https://artvee.com/>
 - <https://omni.vi/>
+- <https://github.com/diinki/wallpapers>
 - I don't recall other
