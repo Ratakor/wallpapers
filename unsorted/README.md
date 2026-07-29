@@ -52,6 +52,8 @@
 
 <a href="mojave-dusk.webp"><img alt="mojave-dusk" src="mojave-dusk.webp"></a>
 
+<a href="IMG_7592.webp"><img alt="IMG_7592" src="IMG_7592.webp"></a>
+
 <a href="b-806.webp"><img alt="b-806" src="b-806.webp"></a>
 
 <a href="patrick-bateman-portrait.webp"><img alt="patrick-bateman-portrait" src="patrick-bateman-portrait.webp"></a>
@@ -394,6 +396,8 @@
 
 <a href="b-728.webp"><img alt="b-728" src="b-728.webp"></a>
 
+<a href="wallhaven-9dd3d1.webp"><img alt="wallhaven-9dd3d1" src="wallhaven-9dd3d1.webp"></a>
+
 <a href="witherpape.webp"><img alt="witherpape" src="witherpape.webp"></a>
 
 <a href="Feed_me_your_sins_pape.webp"><img alt="Feed_me_your_sins_pape" src="Feed_me_your_sins_pape.webp"></a>
@@ -436,6 +440,8 @@
 
 <a href="diinki-SYSTEMA.webp"><img alt="diinki-SYSTEMA" src="diinki-SYSTEMA.webp"></a>
 
+<a href="wallhaven-qrmykq.webp"><img alt="wallhaven-qrmykq" src="wallhaven-qrmykq.webp"></a>
+
 <a href="64m36y0xpf561.webp"><img alt="64m36y0xpf561" src="64m36y0xpf561.webp"></a>
 
 <a href="281.webp"><img alt="281" src="281.webp"></a>
@@ -463,6 +469,8 @@
 <a href="skull_wallpaper.webp"><img alt="skull_wallpaper" src="skull_wallpaper.webp"></a>
 
 <a href="chisa_wpp.webp"><img alt="chisa_wpp" src="chisa_wpp.webp"></a>
+
+<a href="wallhaven-og3qjp.webp"><img alt="wallhaven-og3qjp" src="wallhaven-og3qjp.webp"></a>
 
 <a href="es3_morning.webp"><img alt="es3_morning" src="es3_morning.webp"></a>
 
