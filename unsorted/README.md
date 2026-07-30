@@ -8,8 +8,6 @@
 
 <a href="b-659.webp"><img alt="b-659" src="b-659.webp"></a>
 
-<a href="45455.webp"><img alt="45455" src="45455.webp"></a>
-
 <a href="7677fc704b7d6d5cb1adc94c482dc5da.webp"><img alt="7677fc704b7d6d5cb1adc94c482dc5da" src="7677fc704b7d6d5cb1adc94c482dc5da.webp"></a>
 
 <a href="bulbasaur-pokemon.webp"><img alt="bulbasaur-pokemon" src="bulbasaur-pokemon.webp"></a>
@@ -22,8 +20,6 @@
 
 <a href="65.webp"><img alt="65" src="65.webp"></a>
 
-<a href="headless-figure-dark-art.webp"><img alt="headless-figure-dark-art" src="headless-figure-dark-art.webp"></a>
-
 <a href="b-900.webp"><img alt="b-900" src="b-900.webp"></a>
 
 <a href="b-482.webp"><img alt="b-482" src="b-482.webp"></a>
@@ -32,27 +28,15 @@
 
 <a href="ign_vaporWave.webp"><img alt="ign_vaporWave" src="ign_vaporWave.webp"></a>
 
-<a href="es3_night.webp"><img alt="es3_night" src="es3_night.webp"></a>
-
 <a href="cropped-2560-1440-1156577.webp"><img alt="cropped-2560-1440-1156577" src="cropped-2560-1440-1156577.webp"></a>
 
 <a href="pokemon-center-interior.webp"><img alt="pokemon-center-interior" src="pokemon-center-interior.webp"></a>
 
-<a href="es1_day.webp"><img alt="es1_day" src="es1_day.webp"></a>
-
-<a href="mountains.webp"><img alt="mountains" src="mountains.webp"></a>
-
 <a href="1666371462308409.webp"><img alt="1666371462308409" src="1666371462308409.webp"></a>
 
-<a href="453232.webp"><img alt="453232" src="453232.webp"></a>
-
-<a href="es5_morning.webp"><img alt="es5_morning" src="es5_morning.webp"></a>
-
-<a href="mojave-day.webp"><img alt="mojave-day" src="mojave-day.webp"></a>
-
-<a href="mojave-dusk.webp"><img alt="mojave-dusk" src="mojave-dusk.webp"></a>
-
 <a href="IMG_7592.webp"><img alt="IMG_7592" src="IMG_7592.webp"></a>
+
+<a href="princess_mononoke_skull.webp"><img alt="princess_mononoke_skull" src="princess_mononoke_skull.webp"></a>
 
 <a href="b-806.webp"><img alt="b-806" src="b-806.webp"></a>
 
@@ -75,10 +59,6 @@
 <a href="b-557.webp"><img alt="b-557" src="b-557.webp"></a>
 
 <a href="meh-dark.webp"><img alt="meh-dark" src="meh-dark.webp"></a>
-
-<a href="stsci-01ga76rm0c11w977jrhgj5j26x.webp"><img alt="stsci-01ga76rm0c11w977jrhgj5j26x" src="stsci-01ga76rm0c11w977jrhgj5j26x.webp"></a>
-
-<a href="DHa0F6jACvK6BkU29poP-1-cwvlu_2x.webp"><img alt="DHa0F6jACvK6BkU29poP-1-cwvlu_2x" src="DHa0F6jACvK6BkU29poP-1-cwvlu_2x.webp"></a>
 
 <a href="spirit_wpp.webp"><img alt="spirit_wpp" src="spirit_wpp.webp"></a>
 
@@ -104,51 +84,31 @@
 
 <a href="b-550.webp"><img alt="b-550" src="b-550.webp"></a>
 
-<a href="OD_house_night_sat.webp"><img alt="OD_house_night_sat" src="OD_house_night_sat.webp"></a>
-
-<a href="pv9QrLlplTgb9XnUkIVS-1-l6vd1_2x.webp"><img alt="pv9QrLlplTgb9XnUkIVS-1-l6vd1_2x" src="pv9QrLlplTgb9XnUkIVS-1-l6vd1_2x.webp"></a>
-
-<a href="6f0ksV9.webp"><img alt="6f0ksV9" src="6f0ksV9.webp"></a>
-
 <a href="garenvsdarius.webp"><img alt="garenvsdarius" src="garenvsdarius.webp"></a>
-
-<a href="to-the-moon-FHD.webp"><img alt="to-the-moon-FHD" src="to-the-moon-FHD.webp"></a>
-
-<a href="island-dawn.webp"><img alt="island-dawn" src="island-dawn.webp"></a>
 
 <a href="ghibli-cliff-greenery.webp"><img alt="ghibli-cliff-greenery" src="ghibli-cliff-greenery.webp"></a>
 
 <a href="68.webp"><img alt="68" src="68.webp"></a>
 
+<a href="takato_yamamoto.webp"><img alt="takato_yamamoto" src="takato_yamamoto.webp"></a>
+
 <a href="275.webp"><img alt="275" src="275.webp"></a>
 
 <a href="spawn.webp"><img alt="spawn" src="spawn.webp"></a>
-
-<a href="island-day.webp"><img alt="island-day" src="island-day.webp"></a>
 
 <a href="caJoiwr.webp"><img alt="caJoiwr" src="caJoiwr.webp"></a>
 
 <a href="ign-0003.webp"><img alt="ign-0003" src="ign-0003.webp"></a>
 
-<a href="storm-clouds-sunset.webp"><img alt="storm-clouds-sunset" src="storm-clouds-sunset.webp"></a>
-
 <a href="aaaa1.webp"><img alt="aaaa1" src="aaaa1.webp"></a>
 
 <a href="town.webp"><img alt="town" src="town.webp"></a>
-
-<a href="wallhaven-g8x697.webp"><img alt="wallhaven-g8x697" src="wallhaven-g8x697.webp"></a>
 
 <a href="aesthetic_blue_jupiter.webp"><img alt="aesthetic_blue_jupiter" src="aesthetic_blue_jupiter.webp"></a>
 
 <a href="skeleton-skulls-blue-minimalist.webp"><img alt="skeleton-skulls-blue-minimalist" src="skeleton-skulls-blue-minimalist.webp"></a>
 
-<a href="Wallpaper1.webp"><img alt="Wallpaper1" src="Wallpaper1.webp"></a>
-
-<a href="es5_night.webp"><img alt="es5_night" src="es5_night.webp"></a>
-
 <a href="wallhaven-og9jv9.webp"><img alt="wallhaven-og9jv9" src="wallhaven-og9jv9.webp"></a>
-
-<a href="night_breeze.webp"><img alt="night_breeze" src="night_breeze.webp"></a>
 
 <a href="pokemon-landscape-pixel.webp"><img alt="pokemon-landscape-pixel" src="pokemon-landscape-pixel.webp"></a>
 
@@ -162,19 +122,9 @@
 
 <a href="anthony-delanoix-Aa8_X_YgrO4-unsplash.webp"><img alt="anthony-delanoix-Aa8_X_YgrO4-unsplash" src="anthony-delanoix-Aa8_X_YgrO4-unsplash.webp"></a>
 
-<a href="island-dusk.webp"><img alt="island-dusk" src="island-dusk.webp"></a>
-
-<a href="wallhaven-vm3gr8.webp"><img alt="wallhaven-vm3gr8" src="wallhaven-vm3gr8.webp"></a>
-
-<a href="msiz8gc4u5b91.webp"><img alt="msiz8gc4u5b91" src="msiz8gc4u5b91.webp"></a>
-
-<a href="es1_morning.webp"><img alt="es1_morning" src="es1_morning.webp"></a>
-
 <a href="b-593.webp"><img alt="b-593" src="b-593.webp"></a>
 
 <a href="b-762.webp"><img alt="b-762" src="b-762.webp"></a>
-
-<a href="es2_night.webp"><img alt="es2_night" src="es2_night.webp"></a>
 
 <a href="b-459.webp"><img alt="b-459" src="b-459.webp"></a>
 
@@ -184,11 +134,7 @@
 
 <a href="ghibli-chandelier-cobwebs.webp"><img alt="ghibli-chandelier-cobwebs" src="ghibli-chandelier-cobwebs.webp"></a>
 
-<a href="es6_night.webp"><img alt="es6_night" src="es6_night.webp"></a>
-
 <a href="church.webp"><img alt="church" src="church.webp"></a>
-
-<a href="autumn-on_the_hudson_river_1963-9-1.webp"><img alt="autumn-on_the_hudson_river_1963-9-1" src="autumn-on_the_hudson_river_1963-9-1.webp"></a>
 
 <a href="black-metal-landscape-marble.webp"><img alt="black-metal-landscape-marble" src="black-metal-landscape-marble.webp"></a>
 
@@ -208,8 +154,6 @@
 
 <a href="62.webp"><img alt="62" src="62.webp"></a>
 
-<a href="ign-0009.webp"><img alt="ign-0009" src="ign-0009.webp"></a>
-
 <a href="b-594.webp"><img alt="b-594" src="b-594.webp"></a>
 
 <a href="Wallpaper_2.webp"><img alt="Wallpaper_2" src="Wallpaper_2.webp"></a>
@@ -224,11 +168,7 @@
 
 <a href="b-786.webp"><img alt="b-786" src="b-786.webp"></a>
 
-<a href="b-707.webp"><img alt="b-707" src="b-707.webp"></a>
-
 <a href="b-031.webp"><img alt="b-031" src="b-031.webp"></a>
-
-<a href="OD_house_morn.webp"><img alt="OD_house_morn" src="OD_house_morn.webp"></a>
 
 <a href="purplePlane.webp"><img alt="purplePlane" src="purplePlane.webp"></a>
 
@@ -246,12 +186,6 @@
 
 <a href="wallhaven-zm1elo.webp"><img alt="wallhaven-zm1elo" src="wallhaven-zm1elo.webp"></a>
 
-<a href="dorohedoro-door.webp"><img alt="dorohedoro-door" src="dorohedoro-door.webp"></a>
-
-<a href="qnuvn40aq5e81.webp"><img alt="qnuvn40aq5e81" src="qnuvn40aq5e81.webp"></a>
-
-<a href="es2_day.webp"><img alt="es2_day" src="es2_day.webp"></a>
-
 <a href="underwater-blue-abyss.webp"><img alt="underwater-blue-abyss" src="underwater-blue-abyss.webp"></a>
 
 <a href="completely_illogical_wallpaper.webp"><img alt="completely_illogical_wallpaper" src="completely_illogical_wallpaper.webp"></a>
@@ -260,23 +194,13 @@
 
 <a href="mononoke-kodama-forest.webp"><img alt="mononoke-kodama-forest" src="mononoke-kodama-forest.webp"></a>
 
-<a href="es4_night.webp"><img alt="es4_night" src="es4_night.webp"></a>
-
 <a href="67.webp"><img alt="67" src="67.webp"></a>
-
-<a href="OD_house_day.webp"><img alt="OD_house_day" src="OD_house_day.webp"></a>
-
-<a href="es7_night.webp"><img alt="es7_night" src="es7_night.webp"></a>
 
 <a href="porco-rosso-boat-sunset.webp"><img alt="porco-rosso-boat-sunset" src="porco-rosso-boat-sunset.webp"></a>
 
 <a href="boris-m-UAzycY5r2-c-unsplash.webp"><img alt="boris-m-UAzycY5r2-c-unsplash" src="boris-m-UAzycY5r2-c-unsplash.webp"></a>
 
-<a href="es7_morning.webp"><img alt="es7_morning" src="es7_morning.webp"></a>
-
 <a href="reflections_wpp.webp"><img alt="reflections_wpp" src="reflections_wpp.webp"></a>
-
-<a href="mojave-morning.webp"><img alt="mojave-morning" src="mojave-morning.webp"></a>
 
 <a href="omnicide.webp"><img alt="omnicide" src="omnicide.webp"></a>
 
@@ -302,8 +226,6 @@
 
 <a href="b-874.webp"><img alt="b-874" src="b-874.webp"></a>
 
-<a href="es4_day.webp"><img alt="es4_day" src="es4_day.webp"></a>
-
 <a href="b-342.webp"><img alt="b-342" src="b-342.webp"></a>
 
 <a href="210.webp"><img alt="210" src="210.webp"></a>
@@ -318,10 +240,6 @@
 
 <a href="da14a00f4cf6294c351ef473c3787d77.webp"><img alt="da14a00f4cf6294c351ef473c3787d77" src="da14a00f4cf6294c351ef473c3787d77.webp"></a>
 
-<a href="island-night.webp"><img alt="island-night" src="island-night.webp"></a>
-
-<a href="4RFJhJW.webp"><img alt="4RFJhJW" src="4RFJhJW.webp"></a>
-
 <a href="4-seasons.webp"><img alt="4-seasons" src="4-seasons.webp"></a>
 
 <a href="b-789.webp"><img alt="b-789" src="b-789.webp"></a>
@@ -329,8 +247,6 @@
 <a href="276.webp"><img alt="276" src="276.webp"></a>
 
 <a href="b-413.webp"><img alt="b-413" src="b-413.webp"></a>
-
-<a href="2pm-lost-underworld.webp"><img alt="2pm-lost-underworld" src="2pm-lost-underworld.webp"></a>
 
 <a href="b-174.webp"><img alt="b-174" src="b-174.webp"></a>
 
@@ -340,37 +256,21 @@
 
 <a href="8bea03e6-5197-456b-ac44-97561d7563ed.webp"><img alt="8bea03e6-5197-456b-ac44-97561d7563ed" src="8bea03e6-5197-456b-ac44-97561d7563ed.webp"></a>
 
-<a href="nighttimesky.webp"><img alt="nighttimesky" src="nighttimesky.webp"></a>
-
 <a href="i_love_you_so.webp"><img alt="i_love_you_so" src="i_love_you_so.webp"></a>
 
 <a href="matesuli.webp"><img alt="matesuli" src="matesuli.webp"></a>
 
-<a href="es1_night.webp"><img alt="es1_night" src="es1_night.webp"></a>
-
-<a href="es7_day.webp"><img alt="es7_day" src="es7_day.webp"></a>
-
-<a href="es6_day.webp"><img alt="es6_day" src="es6_day.webp"></a>
-
 <a href="howl-moving-castle-wall.webp"><img alt="howl-moving-castle-wall" src="howl-moving-castle-wall.webp"></a>
-
-<a href="the_spirit_of_war_1978-12-1.webp"><img alt="the_spirit_of_war_1978-12-1" src="the_spirit_of_war_1978-12-1.webp"></a>
 
 <a href="b-310.webp"><img alt="b-310" src="b-310.webp"></a>
 
 <a href="wallpaper.webp"><img alt="wallpaper" src="wallpaper.webp"></a>
-
-<a href="5.webp"><img alt="5" src="5.webp"></a>
-
-<a href="OD_house_night.webp"><img alt="OD_house_night" src="OD_house_night.webp"></a>
 
 <a href="b-450.webp"><img alt="b-450" src="b-450.webp"></a>
 
 <a href="calvin-and-hobbes-walking.webp"><img alt="calvin-and-hobbes-walking" src="calvin-and-hobbes-walking.webp"></a>
 
 <a href="wallhaven-gjd1ee.webp"><img alt="wallhaven-gjd1ee" src="wallhaven-gjd1ee.webp"></a>
-
-<a href="IxLXNC9Y2c1Xgyn15xrf-1-ye45l_2x.webp"><img alt="IxLXNC9Y2c1Xgyn15xrf-1-ye45l_2x" src="IxLXNC9Y2c1Xgyn15xrf-1-ye45l_2x.webp"></a>
 
 <a href="OCUDLM_Pape.webp"><img alt="OCUDLM_Pape" src="OCUDLM_Pape.webp"></a>
 
@@ -382,8 +282,6 @@
 
 <a href="nerastatue.webp"><img alt="nerastatue" src="nerastatue.webp"></a>
 
-<a href="5VUhtaY.webp"><img alt="5VUhtaY" src="5VUhtaY.webp"></a>
-
 <a href="wolf-portrait-dark.webp"><img alt="wolf-portrait-dark" src="wolf-portrait-dark.webp"></a>
 
 <a href="b-552.webp"><img alt="b-552" src="b-552.webp"></a>
@@ -394,21 +292,13 @@
 
 <a href="vain_wpp.webp"><img alt="vain_wpp" src="vain_wpp.webp"></a>
 
-<a href="b-728.webp"><img alt="b-728" src="b-728.webp"></a>
-
-<a href="wallhaven-9dd3d1.webp"><img alt="wallhaven-9dd3d1" src="wallhaven-9dd3d1.webp"></a>
-
 <a href="witherpape.webp"><img alt="witherpape" src="witherpape.webp"></a>
 
 <a href="Feed_me_your_sins_pape.webp"><img alt="Feed_me_your_sins_pape" src="Feed_me_your_sins_pape.webp"></a>
 
 <a href="fleshed.webp"><img alt="fleshed" src="fleshed.webp"></a>
 
-<a href="wallhaven-z8pdqo.webp"><img alt="wallhaven-z8pdqo" src="wallhaven-z8pdqo.webp"></a>
-
 <a href="divine_healer_turned_rotten_scientist-wallpaper.webp"><img alt="divine_healer_turned_rotten_scientist-wallpaper" src="divine_healer_turned_rotten_scientist-wallpaper.webp"></a>
-
-<a href="weirdearth.webp"><img alt="weirdearth" src="weirdearth.webp"></a>
 
 <a href="hnhx.webp"><img alt="hnhx" src="hnhx.webp"></a>
 
@@ -428,15 +318,9 @@
 
 <a href="b-409.webp"><img alt="b-409" src="b-409.webp"></a>
 
-<a href="es3_day.webp"><img alt="es3_day" src="es3_day.webp"></a>
-
 <a href="b-674.webp"><img alt="b-674" src="b-674.webp"></a>
 
-<a href="es4_morning.webp"><img alt="es4_morning" src="es4_morning.webp"></a>
-
 <a href="hold_pape.webp"><img alt="hold_pape" src="hold_pape.webp"></a>
-
-<a href="es2_morning.webp"><img alt="es2_morning" src="es2_morning.webp"></a>
 
 <a href="diinki-SYSTEMA.webp"><img alt="diinki-SYSTEMA" src="diinki-SYSTEMA.webp"></a>
 
@@ -451,8 +335,6 @@
 <a href="70.webp"><img alt="70" src="70.webp"></a>
 
 <a href="dystopia.webp"><img alt="dystopia" src="dystopia.webp"></a>
-
-<a href="mojave-night.webp"><img alt="mojave-night" src="mojave-night.webp"></a>
 
 <a href="diinki-oc_the_blackboard.webp"><img alt="diinki-oc_the_blackboard" src="diinki-oc_the_blackboard.webp"></a>
 
@@ -470,27 +352,11 @@
 
 <a href="chisa_wpp.webp"><img alt="chisa_wpp" src="chisa_wpp.webp"></a>
 
-<a href="wallhaven-og3qjp.webp"><img alt="wallhaven-og3qjp" src="wallhaven-og3qjp.webp"></a>
-
-<a href="es3_morning.webp"><img alt="es3_morning" src="es3_morning.webp"></a>
-
-<a href="rocket-launch-painterly.webp"><img alt="rocket-launch-painterly" src="rocket-launch-painterly.webp"></a>
-
 <a href="gruvbox_anime_landscape.webp"><img alt="gruvbox_anime_landscape" src="gruvbox_anime_landscape.webp"></a>
 
 <a href="omnitile-notext.webp"><img alt="omnitile-notext" src="omnitile-notext.webp"></a>
 
-<a href="b-297.webp"><img alt="b-297" src="b-297.webp"></a>
-
-<a href="es6_morning.webp"><img alt="es6_morning" src="es6_morning.webp"></a>
-
-<a href="romandream.webp"><img alt="romandream" src="romandream.webp"></a>
-
-<a href="es5_day.webp"><img alt="es5_day" src="es5_day.webp"></a>
-
 <a href="time_warp-wpp.webp"><img alt="time_warp-wpp" src="time_warp-wpp.webp"></a>
-
-<a href="yellow.webp"><img alt="yellow" src="yellow.webp"></a>
 
 <a href="meh-light.webp"><img alt="meh-light" src="meh-light.webp"></a>
 
