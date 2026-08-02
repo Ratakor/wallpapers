@@ -26,6 +26,8 @@
 
 <a href="rei-moon-glitch.webp"><img alt="rei-moon-glitch" src="rei-moon-glitch.webp"></a>
 
+<a href="xero.webp"><img alt="xero" src="xero.webp"></a>
+
 <a href="79-Leliel.webp"><img alt="79-Leliel" src="79-Leliel.webp"></a>
 
 <a href="shinji-floating-minimalist.webp"><img alt="shinji-floating-minimalist" src="shinji-floating-minimalist.webp"></a>
