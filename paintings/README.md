@@ -1,5 +1,7 @@
 # paintings
 
+<a href="painting-lighthouse-02-1440p.webp"><img alt="painting-lighthouse-02-1440p" src="painting-lighthouse-02-1440p.webp"></a>
+
 <a href="headless-figure-dark-art.webp"><img alt="headless-figure-dark-art" src="headless-figure-dark-art.webp"></a>
 
 <a href="Stepping_Stones_Bolton_Abbey-1868-John_Atkinson_Grimshaw.webp"><img alt="Stepping_Stones_Bolton_Abbey-1868-John_Atkinson_Grimshaw" src="Stepping_Stones_Bolton_Abbey-1868-John_Atkinson_Grimshaw.webp"></a>

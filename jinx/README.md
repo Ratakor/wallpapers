@@ -32,5 +32,7 @@
 
 <a href="wallhaven-7p3m2v.webp"><img alt="wallhaven-7p3m2v" src="wallhaven-7p3m2v.webp"></a>
 
+<a href="arcane-jinx-01-1440p.webp"><img alt="arcane-jinx-01-1440p" src="arcane-jinx-01-1440p.webp"></a>
+
 <a href="wallhaven-o37g7p.webp"><img alt="wallhaven-o37g7p" src="wallhaven-o37g7p.webp"></a>
 
