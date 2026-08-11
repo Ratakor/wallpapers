@@ -174,6 +174,8 @@
 
 <a href="b-031.webp"><img alt="b-031" src="b-031.webp"></a>
 
+<a href="nixos.webp"><img alt="nixos" src="nixos.webp"></a>
+
 <a href="purplePlane.webp"><img alt="purplePlane" src="purplePlane.webp"></a>
 
 <a href="bath.webp"><img alt="bath" src="bath.webp"></a>
